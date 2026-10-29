@@ -1,0 +1,1 @@
+{"total":5100,"chunk":100,"tiers":[{"name":"easy","first":1,"last":1000},{"name":"medium","first":1001,"last":2500},{"name":"hard","first":2501,"last":4000},{"name":"expert","first":4001,"last":5100}]}
