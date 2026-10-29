@@ -1,3 +1,4 @@
+// ignore_for_file: invalid_use_of_visible_for_testing_member, unawaited_futures
 // Renders key screens to PNGs in build/shots/ for visual review:
 //   flutter test tool/screenshots_test.dart
 import 'dart:io';
